@@ -1,1 +1,11 @@
-dghfj
+
+print("╔"+"══════════════════════════"+"╗")
+print("║      REHBER APP          ║")
+print("║  1- İsim e               ║") 
+print("║  2- Kayıtları Listele    ║")
+print("║  3- Kayıt Düzelt         ║")
+print("║  4- Kayıt sil            ║")
+print("║                          ║")
+print("║  Seçiminiz nedir?        ║")
+print("╚"+"══════════════════════════"+"╝")
+
