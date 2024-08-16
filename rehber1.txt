@@ -1,0 +1,5 @@
+Dosyaya kaydedilen veri.
+Ýkinci satir!!
+Üçüncü satýr
+Dördüncü satýr.
+w ile her çalýþtýðýnda içindeki silinir.
