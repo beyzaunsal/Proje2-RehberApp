@@ -43,7 +43,7 @@ f listele():
         print(b)
 listele()        
    
-    #beyzaunsaaalllllll
+  
 menu()   
 
 # import os 
