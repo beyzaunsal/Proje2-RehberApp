@@ -1,7 +1,1 @@
-Adı:azra tamer	Numarası:054561656658
-Adı:& C:/Users/BEYZA-AZRA/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/BEYZA-AZRA/Desktop/Beyza-python/Proje2-RehberApp/Proje2-RehberApp/dosya islem/hata_yakalama .py"	Numarası:& C:/Users/BEYZA-AZRA/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/BEYZA-AZRA/Desktop/Beyza-python/Proje2-RehberApp/Proje2-RehberApp/dosya islem/hata_yakalama .py"
-Adı:& C:/Users/BEYZA-AZRA/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/BEYZA-AZRA/Desktop/Beyza-python/Proje2-RehberApp/Proje2-RehberApp/dosya islem/hata_yakalama .py"	Numarası:& C:/Users/BEYZA-AZRA/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/BEYZA-AZRA/Desktop/Beyza-python/Proje2-RehberApp/Proje2-RehberApp/dosya islem/hata_yakalama .py"
-Adı:beyza ünsal	Numarası:05434950678
-Adı:zeynep telkök	Numarası:054654863153
-Adı:beyza ünsal	Numarası:05435664
-{'Adı:': 'semiha eken', 'Numarası:': '0543454654'},{'Adı:': 'sude özer', 'Numarası:': '05343514'},{'Adı:': 'zeynep sude uçar', 'Numarası:': '05464486455'},
+{'Adı:': 'beyza ünsaş', 'Numarası:': '054535,434'},{'Adı:': 'azra akın', 'Numarası:': '055464+465'},

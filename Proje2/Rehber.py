@@ -33,16 +33,16 @@ def kisiEkle():
     d.write(str({"Adı:":ad, "Numarası:":no})+",")
     d.close()
     
-f listele():
-    ddd de= open(dosyaadi,encoding="utf-8") 
-    print("\n\n KİŞİLER LİSTESİ:\n===============")
-    ddd.read()
-    okunan = ddd.readlines()
-    okunan.split(",")
-    for b in okunan:
-        print(b)
-listele()        
-   
+def listele():
+    try:
+        okunan = open ("rehber.txt","r",encoding="utf-8")
+        print(okunan.read())
+        okunan.close()
+    except:
+        print("bir hata oluştu")
+listele() 
+
+
   
 menu()   
 
