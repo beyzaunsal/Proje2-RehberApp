@@ -42,7 +42,7 @@ def listele():
         print("bir hata oluştu")
 listele() 
 
-def degistir()
+def degistir():
 
   
 menu()   
