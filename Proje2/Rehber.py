@@ -46,10 +46,4 @@ listele()
   
 menu()   
 
-# import os 
-# def kayitlarListele():
-#     kayitlist =os.listdir()   
-#     for dosya in kayitlist:
-#         if dosya.endswith("rehber.txt"):
-#     print(dosya)
-# menu()        
+    
