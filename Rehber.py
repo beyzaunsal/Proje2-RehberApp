@@ -40,6 +40,10 @@ def listele():
         okunan.close()
     except:
         print("bir hata oluştu")
-    listele() 
+listele() 
+
+def degistir():
+
+  
 menu()   
 
