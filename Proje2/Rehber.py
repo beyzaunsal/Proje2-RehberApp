@@ -42,8 +42,8 @@ def listele():
         print("bir hata oluştu")
 listele() 
 
+def degistir()
 
   
 menu()   
 
-    
