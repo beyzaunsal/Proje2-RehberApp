@@ -103,7 +103,21 @@
 # else:
 #     print("silmek istediğiniz dosya yok")
 
-a=[2,4,1,6]
-b=[3,2,5,1]
-c=a
-d=c[:]
+# a=[2,4,1,6]
+# b=[3,2,5,1]
+# c=a
+# d=c[:]
+
+# def soyle(xxx):
+#     print(xxx)
+# soyle("napıyon")    
+
+# def topla(aaa,bbb):
+#     retun aaa+bbb
+# aaa =topla(8,9) 
+
+def topla(s1=4,s2=5):
+    print(s1+s2)
+topla(3,4) 
+
+def bol(s1,s2)
