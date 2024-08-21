@@ -1,1 +1,1 @@
-<img src="Görseller/anamenü.png" width="250" height="100" alt="Örnek Resim"/>
+<img src="anamenü.png" width="250" height="100" alt="Örnek Resim"/>
