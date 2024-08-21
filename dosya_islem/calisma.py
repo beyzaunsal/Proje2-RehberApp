@@ -81,7 +81,7 @@
 #     print("silmek istediğiniz dosya yok")
 
 
-import os
+# import os
 # silinecek= input("sileceğin dosya adı:")
 # os.rmdir(silinecek)
 
@@ -103,12 +103,7 @@ import os
 # else:
 #     print("silmek istediğiniz dosya yok")
 
-ad = input("Adınız nedir?")
-dosya = open("Merhaba"+ad+".py","w")
-yazilacakbilgi='print("Merhaba "+ad+"\\nBu python 
-programi virusler gibi otomatik 
-olusturuldu.")\ninput()'
-dosya.write('print("Merhaba '+ad+'\\nBu python 
-programi virusler gibi otomatik 
-olusturuldu.")\ninput()')
-dosya.close()
+a=[2,4,1,6]
+b=[3,2,5,1]
+c=a
+d=c[:]
