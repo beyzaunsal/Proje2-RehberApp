@@ -116,8 +116,23 @@
 #     retun aaa+bbb
 # aaa =topla(8,9) 
 
-def topla(s1=4,s2=5):
-    print(s1+s2)
-topla(3,4) 
+# def topla(s1=4,s2=5):
+#     print(s1+s2)
+# topla(3,4) 8
 
-def bol(s1,s2)
+
+# <<<<<<<<<<<<<arama>>>>>>>>>>>>>
+# import random
+# dizi = []
+
+# for a in range(10000):
+#     dizi.append(random.randint(1,10000)) #rasgele dizi atadı
+            
+# dizi.sort()   # ----> sıraladı
+# for b in range(10000):
+#     print(f"{b}: {dizi[b]}")    
+
+
+
+# <<<<<<<<<<<<<<<<< eval-exec >>>>>>>>>>>>>>>>>>
+
