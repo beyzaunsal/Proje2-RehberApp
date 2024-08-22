@@ -1,4 +1,4 @@
-('C:\\Users\\BEYZA-AZRA\\Desktop\\Beyza-python\\Proje2-RehberApp\\Proje2-RehberApp\\Proje2\\build\\Rehber\\PYZ-00.pyz',
+('C:\\Users\\BEYZA-AZRA\\Desktop\\Beyza-python\\Proje2-RehberApp\\Proje2-RehberApp\\Proje2\\build\\rehber\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\BEYZA-AZRA\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
    'PYMODULE'),
