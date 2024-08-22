@@ -1,7 +1,7 @@
 <h1>RehberApp / Rehber Uygulaması</h1>
-<img src="Resimler/anamenü.png" width="300" height="300" alt="Örnek Resim"/>
 Python tabanlı bir telefon rehberi uygulamasıdır.
 Temel olarak kullanıcıların kişi bilgilerini ekleyebileceği, listeleyebileceği, arama yapabileceği, mevcut kişi bilgilerini düzeltebileceği ve kişileri silebileceği bir programdır. Bu tür bir uygulama, kullanıcıya basit ve anlaşılır bir komut satırı arayüzü sunabilir.
+<img src="Resimler/anamenü.png" width="300" height="300" alt="Örnek Resim"/>
 <hr /><b><h4>Rehbere Kişi Ekle</h4></b>
 <img src="Resimler/ekle.png" width="300" height="300" alt="Örnek Resim"/>
 Kullanıcı,rehbere yeni bir kişi ekleyebilir. İsim ve telefon numarası bilgileri kaydedilir. 
