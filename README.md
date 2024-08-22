@@ -1,5 +1,5 @@
 <h1>RehberApp / Rehber Uygulaması</h1>
-Python tabanlı bir telefob rehberi uygulamasıdır.
+Python tabanlı bir telefon rehberi uygulamasıdır.
 Temel olarak kullanıcıların kişi bilgilerini ekleyebileceği, listeleyebileceği, arama yapabileceği, mevcut kişi bilgilerini düzeltebileceği ve kişileri silebileceği bir programdır. Bu tür bir uygulama, kullanıcıya basit ve anlaşılır bir komut satırı arayüzü sunabilir.
 <hr /><b><h4>Ana Menü</h4></b>
 <img src="anamenü.png" width="300" height="300" alt="Örnek Resim"/>
