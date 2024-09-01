@@ -10,3 +10,4 @@ xxx = QApplication([])
 label = label = QLabel("Merhaba2!")
 label.show()
 app.exec()
+
