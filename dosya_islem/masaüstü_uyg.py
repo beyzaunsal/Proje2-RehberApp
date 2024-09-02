@@ -37,32 +37,66 @@
 
 # app.exec()
 
-from PyQt6.QtWidgets import *
+# from PyQt6.QtWidgets import *
 
-class CeviriPenceresi(QMainWindow):
+# class CeviriPenceresi(QMainWindow):
 
-    def __init__(self,baslik,g=0,y=0):
-        super().__init__() 
-        super().setWindowTitle(baslik)
-        if g!=0: and y!=0: self.resize(g,y)
+#     def __init__(self,baslik,g=0,y=0):
+#         super().__init__() 
+#         super().setWindowTitle(baslik)
+#         if g!=0: and y!=0: self.resize(g,y)
 
-        içerik = QVBoxLayout()
+#         içerik = QVBoxLayout()
 
-        içerik.addWidget(QLabel("Çevrilecek :"))
-        içerik.addWidget(QLineEdit(""))
-        içerik.addWidget(QPushButton("Çevir"))
-        içerik.addWidget(QLabel("Sonuç : "))
+#         içerik.addWidget(QLabel("Çevrilecek :"))
+#         içerik.addWidget(QLineEdit(""))
+#         içerik.addWidget(QPushButton("Çevir"))
+#         içerik.addWidget(QLabel("Sonuç : "))
 
-        araclar = QWidget()
-        araclar.setLayout(içerik)
-        self.setCentralWidget(araclar)
+#         araclar = QWidget()
+#         araclar.setLayout(içerik)
+#         self.setCentralWidget(araclar)
 
-uygulama = QApplication([])
+# uygulama = QApplication([])
 
-pencere = CeviriPenceresi("Pencere1")
-pencere2 = CeviriPenceresi("Pencere2")
-pencere.show()
-pencere2.show()
+# pencere = CeviriPenceresi("Pencere1")
+# pencere2 = CeviriPenceresi("Pencere2")
+# pencere.show()
+# pencere2.show()
          
-uygulama.exec()
+# uygulama.exec()
+
+#Login ekranı Tasarımı
+# import sys 
+
+# from PyQt6.QtWidgets import QLineEdit, QApplication, QMainWindow, QVBoxLayout, QLabel, QLayout,QCheckBox,QPushButton,QWidget
+
+# app = QApplication(sys.argv)
+
+# widget =QWidget()
+# layout = QVBoxLayout()  #layout = QHBoxLayout() ---->>> YAN YANA SIRALAR
+# window = QMainWindow()
+# window.setWindowTitle("... Uygulaması")
+# window.setFixedWidth(300)
+# window.setFixedHeight(300)
+
+# layout.addWidget(QLabel("Kullanıcı Adı : "))
+# layout.addWidget(QLineEdit())
+# layout.addWidget(QLabel("Şifre :"))
+# layout.addWidget(QLineEdit())
+# layout.addWidget(QCheckBox("Beni Hatırla"))
+# layout.addWidget(QPushButton("Giriş Yap"))
+
+
+
+# window.setCentralWidget(widget)
+# widget.setLayout(layout)
+
+# window.show()
+
+# app.exec()
+
+# UYGULAMAYI İÇ İÇE NASIL KULLANIRIZ (LAYOUT)
+
+#--------------------------ÇALIŞALACAK
 
