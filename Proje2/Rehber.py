@@ -70,6 +70,7 @@ def rehberApp():
             break
     
 
-rehberApp()
-
+# rehberApp()
+if __name__ == "__main__":
+    rehberApp()
 
